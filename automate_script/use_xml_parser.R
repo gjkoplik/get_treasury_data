@@ -39,6 +39,7 @@ TIPS = as.character(args[1, 2]) # CHANGE this if hand coding values
 FRN = as.character(args[1, 3]) # CHANGE this if hand coding values
 
 # convert date range to posixct
+# specified as "MM-DD-YYYY"
 date_min <- mdy(args[1, 4]) # CHANGE this if hand coding values
 date_max <- mdy(args[1, 5]) # CHANGE this if hand coding values
 
