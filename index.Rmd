@@ -24,7 +24,7 @@ When I was a senior in undergrad, I wanted to do a project on dealer takedown fo
 
 I discovered [another resource](https://www.treasury.gov/resource-center/data-chart-center/Pages/investor_class_auction.aspx) within treasury.gov going back to 2000 that allowed me to do my project, but I still wished I could've used all of the details from [each](https://www.treasurydirect.gov/instit/annceresult/press/preanre/2016/R_20161025_2.pdf) Treasury auction.
 
-Several additional Computer Science and Statistics courses later, downloading and parsing XML files is doable for me. In this write up, I will go into the details of how to use [my code on Github](https://github.com/gjkoplik/get_treasury_data) to gather these data (even if you aren't a "coder"), and I'll show some of the richness embedded in these data.
+Several additional Computer Science and Statistics courses later, downloading and parsing XML files is doable for me. In this write-up, I will go into the details of how to use [my code on Github](https://github.com/gjkoplik/get_treasury_data) to gather these data (even if you aren't a "coder"), and I'll show some of the richness embedded in these data.
 
 ## Some Qualifiers to Using This Code
 
