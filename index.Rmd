@@ -2,7 +2,7 @@
 title: "Downloading and Parsing Treasury Auctions Data"
 subtitle: "From the Treasury Direct Website"
 author: "Gary Koplik"
-date: "Winter, 2018"
+date: "Spring, 2018"
 output:
   html_document:
     theme: "flatly"
@@ -16,7 +16,7 @@ output:
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"figures/two_year_yield_range.png\" style=\"float: right;width: 250px;\"/>')
+     $head.prepend('<img src=\"two_year_yield_range.png\" style=\"float: right;width: 250px;\"/>')
    });
 </script>
 
