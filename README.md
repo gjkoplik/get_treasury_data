@@ -7,4 +7,4 @@ Since this code has many dependencies to my computer (Windows OS, Google Chrome 
 
 If you are interested in using this code on your own however, I recommend downloading the `automate_script` file, but open up the file `use_xml_parser.R` and follow the instructions in the code comments (you only need to change 5 values then download the necessary dates from a specified website).
 
-Website coming soon!
+See https://gjkoplik.github.io/get_treasury_data/ for more.
